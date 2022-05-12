@@ -1,6 +1,11 @@
-- 👋 Hi, I’m @Wang-Jiaolong
-- 👀 I’m interested in `Java`/ `Swift`
-- 🌱 I’m currently learning IOS Development
+- 👋 Hi, I’m Jiaolong
+- 👀 一个乱点技能树的独立开发者
+- 🌱 一个孤独且浪漫的白日梦想家
+
+不务正业｜会敲代码｜有点想法
+一切值得｜保持热爱｜无限进步
+
+More：jiaolong.xyz
 
 <!---
 Wang-Jiaolong/Wang-Jiaolong is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
